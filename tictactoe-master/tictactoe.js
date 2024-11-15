@@ -219,7 +219,7 @@ function updateDifficulty() {
             case "medium":
                 difficulty = 4;
                 break;
-            case "unbeatable":
+            case "Arshil's Special":
                 difficulty = 9;
                 break;
         }
